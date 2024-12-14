@@ -1,6 +1,6 @@
 # FirstProject
 
-Project URL : file:///C:/Users/puran/Downloads/index.html
+Project URL : http://127.0.0.1:5500/
 
 How to Use the Code:
 
